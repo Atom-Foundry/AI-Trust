@@ -18,3 +18,13 @@ AI systems recommend what they trust.
 Trust is one of the strongest predictors of recommendation visibility.
 
 Created by Atom Foundry.
+
+## Related Frameworks
+
+- AI Readability
+- AI Understanding
+- Recommendation Intelligence
+- Decision Confidence
+
+Part of the AI Commerce Intelligence Framework™
+https://atomfoundry.dev/framework
