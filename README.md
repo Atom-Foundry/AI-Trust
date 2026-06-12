@@ -1,4 +1,6 @@
-# AI Trust
+# AI Trust™
+
+![AI Trust Framework](ai-trust.png)
 
 AI Trust measures the signals AI systems use to determine recommendation confidence.
 
